@@ -1,0 +1,5 @@
+reacti is clent side rendering
+only one page rendering in the local web browser and they are called a single page application
+that gets updated overtime throiugh api's and data requests
+
+1) Feb 2nd Learnt about navbar.jsx
